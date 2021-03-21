@@ -1,1 +1,1 @@
-This is a tutorial on Neural Networks from Visual Studio website.
+This is a tutorial on Neural Networks from Visual Studio website. And now I have changed this file to test the commit requests for Git.
